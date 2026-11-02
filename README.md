@@ -43,7 +43,6 @@ The dataset contains information about active listings and neighbourhood-level c
 - `listings_active.csv` – Airbnb listing-level data.
 - `neighbourhood_summary.csv` – Aggregated neighbourhood-level data.
 
-*Note: Dataset source and collection date should be documented here.*
 
 ## 5. Project Methodology
 
@@ -83,7 +82,6 @@ The analysis focuses on identifying:
 - Patterns in listing availability.
 - Potential areas of interest for hosts and property investors.
 
-*Specific numerical findings will be added after reviewing the final analysis and dashboard.*
 
 ## 7. Power BI Dashboard
 
