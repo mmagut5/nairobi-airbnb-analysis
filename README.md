@@ -89,7 +89,6 @@ The Power BI dashboard provides a visual overview of the Nairobi Airbnb market, 
 
 **Dashboard Preview**
 
-Add your dashboard screenshot here:
 
 `powerbi/nairobi_airbnb_dashboard.png`
 
