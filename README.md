@@ -83,13 +83,14 @@ The analysis focuses on identifying:
 - Potential areas of interest for hosts and property investors.
 
 
+
 ## 7. Power BI Dashboard
 
 The Power BI dashboard provides a visual overview of the Nairobi Airbnb market, allowing users to explore listing distribution, pricing and neighbourhood patterns.
 
 ### Dashboard Preview
 
-![Nairobi Airbnb Power BI Dashboard](powerbi/nairobi_airbnb_dashboard.png)
+![Nairobi Airbnb Dashboard](Power%20BI/nairobi_airbnb_dashboard.png)
 
 ## 8. Business Insights and Applications
 
